@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Baidu
+- 🔭 I’m currently working on Alibaba
 - 🌱 I’m currently learning React and TypeScript and Vue
 - 📱 How to reach me: gelx1015
 
